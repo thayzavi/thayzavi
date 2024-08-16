@@ -4,14 +4,13 @@
 
 <div align="center">
 <a href="https://github.com/thayzavi"> 
-<img src="https://github-readme-stats.vercel.app/api?username=thayzavi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thayzavi&show_icons=true&count_private=true&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117" alt="Thayza github stats" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thayzavi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+ 
 ###
-
+ 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
