@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://github.com/thayzavi"> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thayzavi&show_icons=true&count_private=true&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117" alt="Thayza github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thayza Silva &show_icons=true&count_private=true&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117" alt="Thayza github stats" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thayzavi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
  
