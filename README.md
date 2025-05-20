@@ -1,14 +1,12 @@
+
 <h1 align="left">Hi 👋! My name is Thayza Silva</h1>
 
-###
 
 <h2 align="left">About me</h2>
 
-###
 
 <p align="left">Sou Thayza Silva, graduanda em Análise e Desenvolvimento de Sistemas. Tenho como foco principal o desenvolvimento front-end, onde me especializo na criação de aplicativos web interativos, funcionais e com excelente experiência de usuário. Estou sempre em busca de aperfeiçoamento para entregar soluções digitais eficientes e acessíveis, que atendam às necessidades reais dos usuários.</p>
 
-###
 
 <h2 align="left"> Socials:</h2>
 <div align="left">
@@ -49,13 +47,12 @@
 
 ###
 <h2 align="left"> 📊 GitHub Status</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thayzavi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="220" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=thayzavi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thayzavi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="190" />
+  <img src="https://streak-stats.demolab.com?user=thayzavi&theme=dark&hide_border=false" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayzavi&layout=compact&theme=dracula" height="180" />
+</p>
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thayzavi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-</div>
+
 
 
