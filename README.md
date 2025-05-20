@@ -1,8 +1,4 @@
-<h1 align="left">>Hi 👋! My name is Thayza Silva</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h1 align="left">Hi 👋! My name is Thayza Silva</h1>
 
 ###
 
@@ -10,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Sou Thayza Silva, graduanda em Análise e Desenvolvimento de Sistemas. Tenho como foco principal o desenvolvimento front-end, onde me especializo na criação de aplicativos web interativos, funcionais e com excelente experiência de usuário. Estou sempre em busca de aperfeiçoamento para entregar soluções digitais eficientes e acessíveis, que atendam às necessidades reais dos usuários.</p>
 
 ###
 
@@ -51,6 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
+###
 <h2 align="left"> 📊 GitHub Status</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thayzavi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="220" alt="stats graph"  />
